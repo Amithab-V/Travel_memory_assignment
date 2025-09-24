@@ -1,0 +1,20 @@
+{
+  "_id": {
+    "$oid": "68cbacae45a47daabbf99025"
+  },
+  "tripName": "kerala",
+  "startDateOfJourney": "2025-09-19",
+  "endDateOfJourney": "2025-09-21",
+  "nameOfHotels": "asd",
+  "placesVisited": "home",
+  "totalCost": 1000,
+  "tripType": "backpacking",
+  "experience": "good",
+  "image": "",
+  "shortDescription": "nic",
+  "featured": false,
+  "createdAt": {
+    "$date": "2025-09-18T06:43:49.639Z"
+  },
+  "__v": 0
+}
